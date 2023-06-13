@@ -37,7 +37,7 @@ export default createStore({
           'Hope you\'re enjoying it thus far!'
         ],
         date: 'June 2023',
-        url: 'http://DaleJMitchell.github.io',
+        url: 'http://github.com/DaleJMitchell/DaleJMitchell.github.io',
         img: 'ProfilePage.png'
       },
       agaveAtlas: {
