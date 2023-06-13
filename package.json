@@ -2,7 +2,7 @@
   "name": "porfolio-2023",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://madison-mitchell.github.io/portfolio-2023/",
+  "homepage": "https://-mitchell.github.io/portfolio-2023/",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
@@ -41,12 +41,12 @@
   "main": "babel.config.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/madison-mitchell/portfolio-2023.git"
+    "url": "git+https://dalejmitchell.github.io"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/madison-mitchell/portfolio-2023/issues"
+    "url": "https://dalejmitchell.github.io/issues"
   }
 }

@@ -42,7 +42,7 @@ export default {
         // Additional paragraphs to be hidden initially
         'I find immense joy in bringing ideas to life through lines of code, crafting innovative solutions that make a difference. The thrill of problem-solving and the satisfaction of creating something from scratch is what fuels my drive every day.',
         'But my passion extends beyond the realm of coding. I\'m an ardent believer in the power of continuous learning and creative exploration.When I\'m not immersed in coding projects, you\'ll find me exploring various avenues of creation, whether it\'s through art, writing, or experimenting with new technologies. The world is my playground, and I\'m always seeking new ways to expand my knowledge and push the boundaries of what\'s possible.',
-        'In a nutshell, I\'m Madison Mitchell, a tech enthusiast who thrives on the excitement of coding, creating, and learning.With every line of code, I strive to make a meaningful impact and leave a lasting impression on the ever - evolving world of technology.'
+        'In a nutshell, I\'m Dale Mitchell, a tech enthusiast who thrives on the excitement of coding, creating, and learning.With every line of code, I strive to make a meaningful impact and leave a lasting impression on the ever - evolving world of technology.'
       ],
     };
   },

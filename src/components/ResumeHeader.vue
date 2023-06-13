@@ -10,7 +10,7 @@
                 <div class="contact-info flex flex-col justify-center">
                     <a class="hover:text-sky-600" href="tel:3308146599"><h5 class="text-md text-left"><i class="fa-solid fa-phone text-neutral-400 w-6"></i>(330) 814-6599</h5></a>
                     <a class="hover:text-sky-600" href="mailto:dalejmitchell@icloud.com"><h5 class="text-md text-left"><i class="fa-solid fa-envelope text-neutral-400 w-6"></i>dalejmitchell@icloud.com</h5></a>
-                    <a class="hover:text-sky-600" href="http://madison-mitchell.github.io" target="_blank"><h5 class="text-md text-left"><i class="fa-solid fa-globe text-neutral-400 w-6"></i>dalejmitchell.github.io</h5></a>
+                    <a class="hover:text-sky-600" href="http://dalejmitchell.github.io" target="_blank"><h5 class="text-md text-left"><i class="fa-solid fa-globe text-neutral-400 w-6"></i>dalejmitchell.github.io</h5></a>
                     <a class="hover:text-sky-600" href="https://www.linkedin.com/in/dale-j-mitchell/" target="_blank"><h5 class="text-md text-left"><i class="fa-brands fa-linkedin-in text-neutral-400 w-6"></i>linkedin.com/in/dale-j-mitchell/</h5></a>
                     <a class="hover:text-sky-600" href="https://github.com/DaleJMitchell" target="_blank"><h5 class="text-md text-left"><i class="fa-brands fa-github text-neutral-400 w-6"></i>github.com/DaleJMitchell</h5></a>
                     <h5 class="text-md text-left"><i class="fa-solid fa-location-dot text-neutral-400 w-6"></i>Uniontown, OH, USA</h5>

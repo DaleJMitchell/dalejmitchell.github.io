@@ -1,6 +1,6 @@
 <template>
   <div class="navBar bg-gradient-to-b from-cyan-500 to-blue-500 h-screen flex flex-col w-72">
-    <router-link to="/"><h1 class="mt-10 text-2xl text-center font-bold text-white">Madison Mitchell</h1></router-link>
+    <router-link to="/"><h1 class="mt-10 text-2xl text-center font-bold text-white">Dale Mitchell</h1></router-link>
     <div class="bio flex flex-col justify-center px-6">
       <img class="headshot rounded-full w-8/12 my-6 mx-auto" src="../assets/headshot.jpg" alt="" />
       <p class="text-white font-medium">Hi! 👋🏻 My name is  Dale. I'm a junior software developer with a passion for building innovative solutions. With a background as a service technician, I bring a unique blend of technical expertise and problem-solving skills to create efficient and user-friendly software applications.</p>
