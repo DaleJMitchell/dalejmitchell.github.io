@@ -152,7 +152,7 @@ export default {
                 message: this.formData.message,
             };
             axios
-                .post("https://uninterested-newt-zipper.cyclic.app/api/send-email", formData)
+                .post("https://drab-wear-fish.cyclic.app/api/send-email", formData)
                 .then((response) => {
                     console.log("Email sent");
                     this.showSuccessMessage = true;
