@@ -15,7 +15,7 @@
       </div>
     </div>
 
-    <div class="h-px m-6 bg-blue-300"></div>
+    <div class="h-px m-6 bg-emerald-300"></div>
 
         <nav class="flex flex-col items-center w-full">
             <ul class="text-left text-white font-medium">
@@ -32,14 +32,14 @@
                     <a href="/#portfolio-container"><i class="fa-solid fa-laptop text-center w-6"></i><span class="ml-2 mt-1">Portfolio</span></a>
                 </li>
                 <li class="flex items-center p-2 hover:text-emerald-700 active:text-emerald-900">
-                    <a href="/#contact-container"><i class="fa-solid fa-envelope text-center w-6"></i><span class="ml-2 mt-1">Contact</span></a>
+                    <a href="/#contact-container"><i class="fa-solid fa-envelope text-center w-6"></i><span class="ml-2 mt-1">Hire Me</span></a>
                 </li>
                 <li class="flex items-center p-2 hover:text-emerald-700 active:text-emerald-900">
                     <router-link to="resume#top-of-page"><i class="fa-solid fa-file-lines text-center w-6"></i><span class="ml-2 mt-1">Resume</span></router-link>
                 </li>
             </ul>
 
-      <button class="bg-emerald-700 hover:bg-emerald-800 text-white font-bold mt-10 py-4 px-6 rounded"><i class="fa-solid fa-paper-plane text-white"></i> Hire Me</button>
+      
     </nav>
   </div>
 </template>
