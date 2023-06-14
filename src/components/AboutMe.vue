@@ -40,9 +40,11 @@ export default {
       visibleParagraphs: 1, // Number of paragraphs to show initially
       paragraphs: [
         // Additional paragraphs to be hidden initially
-        'I find immense joy in bringing ideas to life through lines of code, crafting innovative solutions that make a difference. The thrill of problem-solving and the satisfaction of creating something from scratch is what fuels my drive every day.',
-        'But my passion extends beyond the realm of coding. I\'m an ardent believer in the power of continuous learning and creative exploration.When I\'m not immersed in coding projects, you\'ll find me exploring various avenues of creation, whether it\'s through art, writing, or experimenting with new technologies. The world is my playground, and I\'m always seeking new ways to expand my knowledge and push the boundaries of what\'s possible.',
-        'In a nutshell, I\'m Dale Mitchell, a tech enthusiast who thrives on the excitement of coding, creating, and learning.With every line of code, I strive to make a meaningful impact and leave a lasting impression on the ever - evolving world of technology.'
+        'I\'m a passionate full stack developer with a love for coding and a drive to create innovative solutions. With a strong work ethic and a knack for collaboration, I thrive in team environments where I can contribute my skills and learn from others.',
+        'Beyond my coding expertise, I have a few passions that fuel my curiosity. Motorcycles have always fascinated me, from their engineering marvels to the sense of freedom they provide. Exploring the open road on two wheels is a perfect way to clear my mind and gain new perspectives.',
+        'When I\'m not immersed in coding or exploring the world of motorcycles, you\'ll often find me tinkering with computers. I love diving into hardware, experimenting with different configurations, and optimizing performance.',
+        'As a full stack developer, I bring a comprehensive skill set to the table, encompassing both front-end and back-end development. With experience in various programming languages and frameworks, I\'m adept at crafting user-friendly interfaces and building robust, scalable applications.',
+        'I believe in the power of collaboration and enjoy working closely with others to turn ideas into reality. Together, we can overcome challenges, leverage our strengths, and deliver exceptional results. If you\'re looking for a dedicated, hardworking team player with a passion for coding, motorcycles, aviation, and computer tinkering, I\'d love to connect with you.'
       ],
     };
   },
