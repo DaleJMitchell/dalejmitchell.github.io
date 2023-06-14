@@ -3,7 +3,7 @@
 
         <div class="skills grid grid-cols-4 gap-8 p-16 text-justify m-auto">
             <header class="flex col-span-4">
-                <div class="inline-block w-1.5 h-10 bg-sky-500 mr-4"></div>
+                <div class="inline-block w-1.5 h-10 bg-emerald-500 mr-4"></div>
                 <h1 class="flex flex-col justify-around text-3xl font-bold">What I Do</h1>
             </header>
             <p class="col-span-4">Below is a quick overview of my main technical skill sets and technologies I use. Want to find out more about my experience? Check out my online resume and project portfolio.</p>
@@ -65,7 +65,7 @@
                 </div>
                 
                 <div class="skills-html-css bg-white drop-shadow-md rounded-xl p-4">
-                    <i class="fa-brands fa-html5 fa-2xl mr-1 text-orange-500 mb-4"></i><i class="fa-brands fa-css3-alt fa-2xl ml-1 text-sky-500"></i>
+                    <i class="fa-brands fa-html5 fa-2xl mr-1 text-orange-500 mb-4"></i><i class="fa-brands fa-css3-alt fa-2xl ml-1 text-emerald-500"></i>
                     <h1 class="font-bold text-lg">HTML & CSS</h1>
                     <ul class="ml-4 text-left">
                         <li>Tailwind CSS</li>

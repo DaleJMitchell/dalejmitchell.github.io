@@ -1,8 +1,8 @@
 <template>
     <div>
         <header class="flex mb-8">
-            <div class="inline-block w-1.5 h-7 bg-sky-500 mr-4"></div>
-            <h1 class="flex flex-col text-sky-500 text-2xl font-bold tracking-wider">WORK EXPERIENCES</h1>
+            <div class="inline-block w-1.5 h-7 bg-emerald-500 mr-4"></div>
+            <h1 class="flex flex-col text-emerald-500 text-2xl font-bold tracking-wider">WORK EXPERIENCES</h1>
         </header>
         <div :class="job.name.replace(/\s/g, '') + '-details'" v-for="job in workExp" :key="job">
             <div :class="'header-' + job.name.replace(/\s/g, '')" class="flex justify-between mt-4">

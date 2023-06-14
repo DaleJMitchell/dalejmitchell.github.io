@@ -14,8 +14,8 @@
                 <div class="right-box">
                     <div class="skills-section">
                         <header class="skills-header flex">
-                            <div class="inline-block w-1.5 h-7 bg-sky-500 mr-4"></div>
-                            <h1 class="flex flex-col text-sky-500 text-2xl font-bold tracking-wider">SKILLS</h1>
+                            <div class="inline-block w-1.5 h-7 bg-emerald-500 mr-4"></div>
+                            <h1 class="flex flex-col text-emerald-500 text-2xl font-bold tracking-wider">SKILLS</h1>
                         </header>
                         <h3 class="text-left tracking-wide text-xl font-black mt-4">Technical</h3>
                         <ul class="tech-skills text-left text-md tracking-wide">
@@ -28,8 +28,8 @@
                     </div>
                     <div class="education-section">
                         <header class="education-header flex mt-12">
-                            <div class="inline-block w-1.5 h-7 bg-sky-500 mr-4"></div>
-                            <h1 class="flex flex-col text-sky-500 text-2xl font-bold tracking-wider">EDUCATION</h1>
+                            <div class="inline-block w-1.5 h-7 bg-emerald-500 mr-4"></div>
+                            <h1 class="flex flex-col text-emerald-500 text-2xl font-bold tracking-wider">EDUCATION</h1>
                         </header>
                         <h3 class="text-left tracking-wide text-xl font-black mt-6">Certificates</h3>
                         <ul class="education text-left text-md">
@@ -41,8 +41,8 @@
                     </div>
                     <div class="interests-section">
                         <header class="education-header flex mt-12">
-                            <div class="inline-block w-1.5 h-7 bg-sky-500 mr-4"></div>
-                            <h1 class="flex flex-col text-sky-500 text-2xl font-bold tracking-wider">INTERESTS</h1>
+                            <div class="inline-block w-1.5 h-7 bg-emerald-500 mr-4"></div>
+                            <h1 class="flex flex-col text-emerald-500 text-2xl font-bold tracking-wider">INTERESTS</h1>
                         </header>
                         <ul class="interests text-left text-md mt-6">
                             <li class="py-0 5" v-for="interest in interests" :key="interest">{{ interest }}</li>

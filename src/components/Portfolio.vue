@@ -3,13 +3,13 @@
 
             <div class="portfolio grid grid-cols-3 gap-8 p-16 text-justify m-auto">
                 <header class="flex col-span-3">
-                    <div class="inline-block w-1.5 h-10 bg-sky-500 mr-4"></div>
+                    <div class="inline-block w-1.5 h-10 bg-emerald-500 mr-4"></div>
                     <h1 class="flex flex-col justify-around text-3xl font-bold">Portfolio</h1>
                 </header>
                 <p class="col-span-3">Below is a quick overview of my main technical skill sets and technologies I use. Want to find out more about my experience? Check out my online resume and project portfolio.</p>
                 <div class="portfolio-grid grid grid-cols-3 col-span-4 gap-8">
 
-                    <a class="hover:text-sky-500 focus:text-sky-700" :href="proj.url" v-for="proj in projects" :key="proj">
+                    <a class="hover:text-emerald-500 focus:text-emerald-700" :href="proj.url" v-for="proj in projects" :key="proj">
                         <div :class="'proj-' + proj.title.toLowerCase().replace(/\s/g, '-')" class="bg-white drop-shadow-md rounded-xl p-4 hover:drop-shadow-xl">
                             <h1 class="font-bold text-lg">{{ proj.title }}</h1>
                             <img :class="'proj-img-' + proj.title.toLowerCase().replace(/\s/g, '-')" class="drop-shadow-md rounded" :src="getImageUrl(proj.img)" alt="" ref="gifImage">
