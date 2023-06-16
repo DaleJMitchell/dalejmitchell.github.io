@@ -2,7 +2,7 @@
     <div id="portfolio-container" class="container sm:max-w-full md:max-w-full lg:max-w-full xl:max-w-full">
         <div class="portfolio p-16 text-justify m-auto">
             <header class="flex sm:col-span-3 max-sm:mb-6">
-                <div class="inline-block w-1.5 h-10 bg-sky-500 mr-4"></div>
+                <div class="inline-block w-1.5 h-10 bg-emerald-500 mr-4"></div>
                 <h1 class="flex flex-col justify-around text-3xl font-bold">Portfolio</h1>
             </header>
             <p class="sm:col-span-3 max-sm:mb-6 sm:my-10">Below is a quick overview of my main technical skill sets and technologies I use. Want to find out more about my experience? Check out my online resume and project portfolio.</p>
