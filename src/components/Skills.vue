@@ -7,7 +7,7 @@
             </header>
             <p class="my-10 max-sm:text-lg">Below is a quick overview of my main technical skill sets and technologies I use. Want to find out more about my experience? Check out my online resume and project portfolio.</p>
             <div class="skill-grid grid sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-4 sm:col-span-1 md:col-span-3 xl:col-span-4 gap-8">
-                <div class="skills-java">
+                <div class="skills-java bg-white drop-shadow-md rounded-xl p-4">
                     <i class="fa-brands fa-java fa-2xl mb-4"></i>
                     <h1 class="font-bold text-lg max-sm:text-xl">Java</h1>
                     <ul class="ml-4 text-left max-sm:text-lg">
@@ -51,7 +51,7 @@
                         <li>Visual Studio Code</li>
                     </ul>
                 </div>
-                <div class="skills-vuejs">
+                <div class="skills-vuejs bg-white drop-shadow-md rounded-xl p-4">
                     <i class="fa-brands fa-vuejs text-emerald-500 fa-2xl mb-4"></i>
                     <h1 class="font-bold text-lg max-sm:text-xl">Vue.js</h1>
                     <ul class="ml-4 text-left max-sm:text-lg">
